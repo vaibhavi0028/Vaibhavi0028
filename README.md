@@ -1,4 +1,6 @@
-### Hi there, I'm Vaibahvi 👋
+### Hi there, I'm Vaibhavi 👋
+<marquee behavior="scroll" direction="left" scrollamount="6">Frontend Developer</marquee>
+
 # 💫 About Me:
 🔭 I'm currently working on Frontend Development using React and JavaScript.<br>👯 I'm looking to collaborate on open-source projects related to Frontend development, UI/UX design, or web accessibility.<br>🤝 I'm looking for help with mastering advanced React concepts like Redux, React Router, and server-side rendering.<br>🌱 I'm currently learning Next.js and then MERN stack.<br>💬 Ask me about JavaScript best practices, React component design patterns, or how to make efficient HTTP requests with Axios.<br>⚡ Fun fact:  I'm really into music production and love experimenting with different sounds and melodies in my spare time!
 
