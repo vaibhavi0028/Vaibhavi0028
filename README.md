@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavi0028&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavi0028" /> </p>
 <br>
+
 - 🔭 I’m currently working on **Frontend Development using React and JavaScript.**
 
 - 🌱 I’m currently learning **Next.js and then MERN stack.**
