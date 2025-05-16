@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+enthusiast...;Passionate+for+modern+web+technologies+and+frontend+frameworks.....;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+enthusiast...;Passionate+for+modern+web+technologies+and+AI/ML.....;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/sgvkamalakar)
  
 ----
 
